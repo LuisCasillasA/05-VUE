@@ -1,2 +1,2 @@
 # 05-VUE
-Sistema de pastelerí en vue
+Sistema de pastelería en vue
